@@ -122,7 +122,7 @@ function checkForGameOver() {
 
         textSize(25);
         fill("black");
-        text("Dein NickName:", 20, 380);
+        text("Dein NickName:", 20, 370);
 
         buttonInput.show();
         buttonInput.position(input.x + input.width, 400);
