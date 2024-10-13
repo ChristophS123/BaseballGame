@@ -1,0 +1,131 @@
+1. AnyBlocks Spieler
+2. Craft Cops
+3. Planen für Montag
+
+(4. Bar Rush)
+
+
+https://nicepage.com/Editor/Siteboard/#/builder/6310216/page/225300524
+
+
+
+Aufgaben SV Studios:
+---------------------
+
+1. SV Projekt 1: BarRush
+2. Kunden Projekte: Chez-Emil
+3. Social Media: SV Upload Plan
+4. Neukunden Gewinnung: SV Upload Plan
+5. AnyBlocks Projekt 1: Verschönerungs Update
+6. AnyBlocks: Administratorisches
+
+(7. AnyBlocks Projekt 2: Survival Lands)
+(8. SV Projekt 2: -)
+
+
+Emil Dashboard:
+
+1. Überall Header
+2. Designs
+3. Alles Testen
+4. Main Page vernünftig
+5. Reservierungen und Bestellungen exportieren (Finanzamt sicher)
+
+
+
+TravelDeluxe veröffentlichung:
+1. Dinge von Papa implementieren
+2. Open Beta (Ohne bezahlte Werbung)
+3. EasyShopping zuende
+4. Premium version anfangen
+5. Feedback implementieren
+6. Veröffentlichen und bewerben
+
+
+Travel Deluxe Todos:
+
+https://docs.google.com/document/d/1MYEiJIMhNQ6_kuuI-18TJXR4QPCRXPgqO0iENCTpqQc/edit
+
+
+
+ANYBLOCKS LEITFADEN 1. 
+-------------------
+
+1. Survival Lands Update 
+2. AnyGroup (Ionic und Ads)                         
+3. TexturePack und Tutorials für Alle Modi
+4. Quidditch
+
+ANYBLOCKS LEITFADEN 2.
+1. Slab City
+
+
+Survival Lands Update:
+------------------
+
+Dungeons:
+https://www.spigotmc.org/resources/%E2%9A%94%EF%B8%8Fthedungeons-automatic-generation-in-any-world.111120/
+https://www.spigotmc.org/resources/proceduraldungeon.101828/
+
+
+- Level System
+- Prefix über dem Kopf / andere Verschönerungen
+- Tutorial
+- Dimensionen (Mit unterschiedlichen Einschränkungen wie Durst etc.), (Jeweils eigenen eroberbaren Dungeons), (Custom Mobs)
+- Challenges
+- Neue Spawns (Für jede Dimension eine Hauptstadt mit eigenen Händlern)
+
+- Land Namen ändern
+- Dungeons --> Für Dungeons in andere Welt. Bosse droppen Custom Items (zum Sammeln, sind ausgestellt)
+- Kriege
+- Fabriken
+- Custom Mobs in Dimensionen
+
+Kriege:
+- Man kann Truppen ausbilden (in Kaserne) (Einwohnerzahl und Glücklichkeits abhängig)
+- Man kann andere Länder angreifen (Truppen treffen in einer Arena aufeinander)
+- Hierbei kann man Geld von anderen Ländern bekommen
+
+
+
+Dungeons / Farmwelt System
+
+- Random in der Farmwelt dungeons gespawnt
+- Diese kann ein Land besetzen (Mit Block) und da Truppen platzieren
+- Wenn jemand die Dungeon betritt (Nahe genug am Block ist), wird dieser von den Truppen angegriffen
+- Man kann in Dungeons nicht abbauen (sodass der Block nicht versteckt wird)
+- Wenn man als Angreifer den Block abbaut, kann man selbst die Dungeon besetzen, wenn man Stirbt, werden Coins von einem aufs Land übertragen
+- Nur der besetzer der Dungeon kann Looten. Kisten nach 1 day aufgefüllt (Nicht normale Kiste, sondern eigenes GUI, was sich öffnet (FAKE))
+
+
+
+BarRush
+---------
+- Mischung aus Overcooked und WorldChef
+- Man baut eine Bar auf und muss selber Getränke mixen und bedienen
+- Man kann dekorieren, Tische bauen, Namen ändern, andere Sachen wie Darts Scheibe, Spielautomat
+- Ziel: Möglichst viel Geld bekommen
+- Man kann Kellner einstellen, der bedient, wenn man offline ist
+- Level System: Man schaltet neue Möbel, Dekos, Rezepte etc. frei
+- Wenn man im Spiel ist, kann man erstmal nur bauen, verwalten, bis man das Bar öffnet (und für einen Tag Kellner/Koch spielt) Werden Gäste zu spät bedient gehen sie und man verliert Stammgäste. Man kann auch die Bar eröffnen mit Kellner. Dann kostet es etwas und es ist zufall wieviel man verdient.
+
+
+
+
+
+
+Ideen für Projekte:
+------------------------
+- Django lernen
+- Getränke Spiel (3D Grid View: Man muss Getränke für Kunden herstellen. Es fängt an, dass man Wasser am Wasserhahn auffüllen muss --> Kunden immer weniger Geduld / Verschiedene Getränke)
+- Angular verbessern
+- Backend (Rest APIs)
+- Organisation+ Family (Android)
+- Dart & Flutter lernen
+- KI lernen
+
+- Hacking (Udemy)
+
+
+Ich kann: Minecraft plugins, Applicationen: Frontend: Android Apps, Angular | Backend: php
+
